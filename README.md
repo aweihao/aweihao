@@ -60,6 +60,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30" />
   </a>
 </p>
-
-### Weather in my city:
-<img src="https://weather-icon.journeyad.repl.co/@guilin" alt="weather in my city">
