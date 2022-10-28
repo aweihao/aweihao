@@ -16,7 +16,7 @@
 - [Deep Learning] [Quality Inspection System](https://github.com/aweihao/A10) : Image recognition based quality inspection system for motherboard assembly.
 - [Qt] [Pedestrian Tracking Client](https://github.com/Mr-ind1fferent/ccccAI) : Pedestrian tracking system, I was responsible for the Qt client implementation.
 - [Qt] [Gesture Recognition Client](https://www.bilibili.com/video/BV1xU4y1z77m/) : Meeting control system based on gesture recognition,I was also responsible for the Qt client.
-- [Blog] [Campus Network Optimisation](https://blog.csdn.net/m0_59496782/article/details/121862378) : A blog on campus network optimization through Multi-WAN.
+- [Blog] [Campus Network Optimisation](https://www.coolapk.com/feed/32038181?shareKey=YmFiYzk3NGQwNTA0NjM1YmU4Njk~&shareUid=859024) : A blog on campus network optimization through Multi-WAN.
 
 ### Languages and Tools:
 <p>
